@@ -2,4 +2,8 @@ Learning git
 
 second line
 
+<<<<<<< HEAD
 git in pc
+=======
+third line
+>>>>>>> 3ad7cf9504102cc07234e27573cb6538922082c3
